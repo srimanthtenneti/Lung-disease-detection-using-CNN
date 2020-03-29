@@ -1,3 +1,14 @@
 This is just for training . 
 
 There is a pretrained model file too . So just load detect and Run .
+
+Installations : 
+---------------
+
+-> This is assuming you have python installed and pip setup.
+
+1. pip install keras
+2. pip install tensorflow
+3. pip install opencv-python-contrib
+4. pip install pandas
+5. pip install numpy
